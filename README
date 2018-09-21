@@ -1,0 +1,7 @@
+Script Used to update clan stats on a website for more accurate reporting, and for additional 
+datapoints.
+
+A couple of options exist for the program. u for update, and c for collect.
+
+Paths are currently hardcoded for my local machine, but it should be pretty easy to see what 
+those are.
