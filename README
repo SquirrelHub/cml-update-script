@@ -5,3 +5,8 @@ A couple of options exist for the program. u for update, and c for collect.
 
 Paths are currently hardcoded for my local machine, but it should be pretty easy to see what 
 those are.
+
+An example way to run this program is `scrapy crawl crup -a task=u`
+
+-a stands for arguments, and task=u specifies a variable named tasks that will have the value of u.
+In this case, the convention is that u is equal to update.
